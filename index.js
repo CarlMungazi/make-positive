@@ -1,3 +1,3 @@
-module.exports = function makePositive(num) {
+module.exports = (num) => {
   return Math.abs(num);
 }
