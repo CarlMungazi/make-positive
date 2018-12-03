@@ -1,0 +1,28 @@
+{
+  "name": "make-positive",
+  "version": "0.0.0",
+  "description": "Turn any number into a positive value",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlmungazi/make-positive.git"
+  },
+  "keywords": [
+    "positive",
+    "number",
+    "negative",
+    "convert"
+  ],
+  "author": "Carl Mungazi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlmungazi/make-positive/issues"
+  },
+  "homepage": "https://github.com/carlmungazi/make-positive#readme",
+  "devDependencies": {
+    "ava": "1.0.0-rc.2"
+  }
+}
